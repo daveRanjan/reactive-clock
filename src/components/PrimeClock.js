@@ -19,7 +19,6 @@ class PrimeClock extends React.Component {
         setInterval(() => {
             let currentTime = new moment().tz(this.timezone);
             this.setState({moment_date : currentTime});
-            console.log("currentTime : "+currentTime);
         }, 1000);
     }
 

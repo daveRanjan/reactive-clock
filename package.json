@@ -6,6 +6,7 @@
     "moment": "2.15.1",
     "moment-timezone": "0.5.11",
     "react": "^15.5.4",
+    "react-burger-menu": "^2.0.2",
     "react-dom": "^15.5.4",
     "react-moment": "^0.2.4"
   },
